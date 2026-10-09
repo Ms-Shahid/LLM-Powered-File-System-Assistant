@@ -1,0 +1,80 @@
+import os
+
+def read_file(filepath : str ) -> dict:
+    """
+    Read resume files (PDF, TXT, DOCX)
+    Extract text content
+    Return structured response with content and metadata
+    """
+    try:
+        with open(filepath, "r") as file:
+            content = file.read()
+        return {"content": content, "filepath": filepath}
+
+    except Exception as e:
+        print(f"Error reading file: {e}")
+        return None
+
+
+def list_files(directory: str, extension: str = None ) -> list:
+    
+    """
+    List all files in a directory
+    Filter by extension (e.g., .pdf, .txt)
+    Return file metadata (name, size, modified date)
+    """
+    try:
+        files = os.listdir(directory)
+        if extension:
+            filtered_files = [f for f in files if f.endswith(extension)]
+        else:
+            filtered_files = files
+        return filtered_files
+
+    except Exception as e:
+        print(f"Error listing files: {e}")
+        return []
+
+
+def write_file(filepath: str, content: str) -> dict:
+    """
+    Write content to file
+    Create directories if needed
+    Return success/failure status
+    """
+
+    try:
+        os.makedirs(os.path.dirname(filepath), exist_ok=True)
+        with open(filepath, 'w') as file:
+            file.write(content)
+        return {"success": True}
+    except Exception as e:
+        print(f"Error writing file: {e}")
+        return {"success": False}
+
+
+def search_in_file(filepath: str, keyword: str) -> dict:
+    """
+    Search for keywords in file content
+    Return matches with context (surrounding text)
+    Case-insensitive search
+    """
+
+    try:
+        with open(filepath, 'r') as file:
+
+            content = file.read()
+            if keyword.lower() in content.lower():
+                start_index = content.lower().find(keyword.lower())
+                end_index = start_index + len(keyword)
+                context_start = max(0, start_index - 20)
+                context_end = min(len(content), end_index + 20)
+                context = content[context_start:context_end]
+                return {"found": True, "context": context}
+
+            else:
+                return {"found": False}
+    
+    except Exception as e:
+        print(f"Error searching in file: {e}")
+        return {"found": False}

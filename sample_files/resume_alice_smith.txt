@@ -1,0 +1,31 @@
+ALICE SMITH
+alice.smith@email.com | (555) 234-5678 | LinkedIn: linkedin.com/in/alicesmith
+
+PROFESSIONAL SUMMARY
+Experienced Frontend Developer with 4+ years in React and Vue.js. Passionate about creating responsive, user-friendly web applications. Proficient in modern JavaScript frameworks and CSS styling.
+
+PROFESSIONAL EXPERIENCE
+Senior Frontend Engineer | TechVision LLC | March 2022 - Present
+- Led development of React-based e-commerce platform serving 100K+ users
+- Implemented responsive UI components using Material-UI
+- Optimized page load time by 35% through code splitting
+- Mentored 2 junior developers on React best practices
+
+Frontend Developer | StartupConnect | June 2020 - February 2022
+- Developed Vue.js applications for SaaS product
+- Built reusable component library
+- Collaborated with UX team on design implementations
+
+Junior Developer | WebSolutions Inc. | January 2019 - May 2020
+- Created HTML/CSS/JavaScript websites
+- Fixed bugs and improved code quality
+
+EDUCATION
+B.S. in Computer Science | Tech University | 2018
+
+TECHNICAL SKILLS
+React, Vue.js, JavaScript, TypeScript, HTML5, CSS3, Redux, REST APIs, Git, Webpack, Figma
+
+CERTIFICATIONS
+- React Advanced Patterns (2023)
+- Web Accessibility (WCAG) (2022)

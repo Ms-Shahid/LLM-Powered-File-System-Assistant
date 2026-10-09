@@ -1,0 +1,11 @@
+DATA FILE
+
+Records:
+1. ID: 001, Name: Alice, Department: Engineering, Salary: 95000
+2. ID: 002, Name: Bob, Department: Sales, Salary: 75000
+3. ID: 003, Name: Charlie, Department: Engineering, Salary: 98000
+4. ID: 004, Name: Diana, Department: Marketing, Salary: 80000
+5. ID: 005, Name: Eve, Department: Engineering, Salary: 92000
+
+Total Records: 5
+Last Updated: 2024-10-09

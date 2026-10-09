@@ -1,0 +1,34 @@
+CAROL DAVIS
+carol.davis@email.com | (555) 456-7890 | LinkedIn: linkedin.com/in/caroldavis | GitHub: github.com/cdavis
+
+SUMMARY
+DevOps Engineer with 6+ years experience in cloud infrastructure, containerization, and CI/CD pipelines. Expert in AWS, Kubernetes, and Docker. Committed to automating deployment processes and improving system reliability.
+
+WORK EXPERIENCE
+DevOps Lead | CloudFirst Corp | May 2021 - Present
+- Architected AWS infrastructure for microservices
+- Implemented Kubernetes clusters with 99.9% uptime
+- Reduced deployment time from 2 hours to 15 minutes
+- Led team of 3 DevOps engineers
+- Managed Terraform infrastructure as code
+
+DevOps Engineer | Enterprise Solutions | November 2018 - April 2021
+- Configured and managed Docker containerization
+- Built Jenkins CI/CD pipelines
+- Automated infrastructure provisioning
+- Implemented monitoring with Prometheus and Grafana
+
+System Administrator | Tech Corp | June 2017 - October 2018
+- Managed Linux servers and networking
+- Configured VPN and firewalls
+
+EDUCATION
+B.S. in Network Administration | Tech Institute | 2017
+
+TECHNICAL EXPERTISE
+AWS (EC2, S3, RDS, Lambda), Azure, Kubernetes, Docker, Terraform, Jenkins, GitLab CI, Python, Bash, Linux, Prometheus, ELK Stack
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2023)
+- Kubernetes Administrator (CKA) (2022)
+- Docker Certified Associate (2021)

@@ -1,0 +1,43 @@
+GEORGE KUMAR
+george.kumar@email.com | (555) 890-1234 | LinkedIn: linkedin.com/in/georgekumar
+
+CAREER OBJECTIVE
+Solutions Architect with 9+ years designing scalable cloud solutions. Expertise in microservices architecture, system design, and cloud migration. Helping enterprises modernize infrastructure and reduce operational costs.
+
+PROFESSIONAL BACKGROUND
+Solutions Architect | CloudScale Technologies | July 2021 - Present
+- Architected cloud migration strategy for Fortune 500 companies
+- Designed microservices infrastructure for 50+ applications
+- Led technical teams of 10+ members
+- Reduced infrastructure costs by 40% through optimization
+- Mentored junior architects on system design principles
+
+Senior Systems Engineer | Enterprise Systems | December 2018 - June 2021
+- Designed high-availability systems
+- Implemented disaster recovery solutions
+- Automated deployment pipelines
+
+Systems Engineer | Cloud Services Inc. | April 2016 - November 2018
+- Configured cloud infrastructure
+- Managed system operations
+- Supported infrastructure upgrades
+
+EDUCATION
+M.S. in Computer Engineering | Tech University | 2015
+B.S. in Information Systems | State College | 2013
+
+TECHNICAL SKILLS
+AWS, Azure, GCP, Kubernetes, Microservices, Docker, Terraform, Jenkins, Python, Java, Linux, Database Design, System Architecture, Load Balancing
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (2023)
+- Microsoft Azure Solutions Architect (2022)
+- Google Cloud Architect (2021)
+
+NOTABLE PROJECTS
+- Migrated legacy monolith to microservices: 60% performance improvement
+- Built disaster recovery system: 99.99% availability
+- Reduced cloud costs by $2M annually through optimization
+
+PUBLICATIONS
+- "Microservices at Scale" - IEEE Conference 2023

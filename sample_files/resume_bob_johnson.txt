@@ -1,0 +1,32 @@
+BOB JOHNSON
+bob.johnson@email.com | (555) 345-6789 | LinkedIn: linkedin.com/in/bobjohnson
+
+OBJECTIVE
+Data Scientist with expertise in machine learning and statistical analysis seeking role to leverage Python and ML expertise.
+
+PROFESSIONAL EXPERIENCE
+Data Scientist | AICore Systems | September 2021 - Present
+- Developed predictive models using TensorFlow and scikit-learn
+- Analyzed large datasets with Pandas and NumPy
+- Created data visualizations with Matplotlib and Seaborn
+- Improved model accuracy from 82% to 91%
+
+Machine Learning Engineer | DataTech Industries | January 2020 - August 2021
+- Built recommendation engine using collaborative filtering
+- Implemented data pipelines with Apache Spark
+- Conducted A/B testing and statistical analysis
+
+Junior Data Analyst | Analytics Solutions | July 2018 - December 2019
+- Processed and cleaned datasets using SQL
+- Created dashboards in Tableau
+
+EDUCATION
+M.S. in Data Science | Data University | 2018
+B.S. in Statistics | State College | 2016
+
+SKILLS
+Python, R, SQL, TensorFlow, PyTorch, scikit-learn, Pandas, Spark, Tableau, AWS, Jupyter
+
+ACHIEVEMENTS
+- Published 2 research papers on machine learning optimization
+- Presented at PyCon 2023

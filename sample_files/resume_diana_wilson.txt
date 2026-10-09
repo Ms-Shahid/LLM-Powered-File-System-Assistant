@@ -1,0 +1,35 @@
+DIANA WILSON
+diana.wilson@email.com | (555) 567-8901 | LinkedIn: linkedin.com/in/dianawilson | Portfolio: dianawilson.com
+
+PROFESSIONAL PROFILE
+Full-Stack Developer with 5+ years experience building end-to-end web applications. Proficient in both frontend and backend technologies. Passionate about clean code and scalable architecture.
+
+PROFESSIONAL HISTORY
+Full-Stack Developer | WebInnovate Inc. | February 2020 - Present
+- Developed full-stack e-commerce application using MERN stack
+- Implemented payment gateway integration with Stripe
+- Designed PostgreSQL database schema for optimal performance
+- Built REST APIs handling 10K+ requests daily
+- Improved API response time by 40%
+
+Backend Developer | StartupTech | August 2018 - January 2020
+- Created Node.js/Express REST APIs
+- Designed and optimized MongoDB databases
+- Implemented JWT authentication
+- Wrote unit tests with Jest (95% coverage)
+
+Junior Full-Stack Developer | Digital Agency | March 2017 - July 2018
+- Built WordPress sites and custom plugins
+- Developed jQuery-based frontend features
+
+EDUCATION
+Bootcamp: Full-Stack Web Development | Code Academy | 2016
+B.A. in Information Technology | State University | 2015
+
+CORE COMPETENCIES
+JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, REST APIs, Docker, AWS, Git, Agile/Scrum
+
+PROJECTS
+- E-commerce Platform: MERN stack, 100K+ SKUs, $500K+ transactions
+- Real-time Chat App: WebSocket implementation, 5K concurrent users
+- Analytics Dashboard: Data visualization with D3.js

@@ -1,0 +1,19 @@
+PROJECT DOCUMENTATION
+
+Introduction
+This document describes the architecture and implementation of our file management system.
+
+Overview
+The system handles file operations including reading, writing, searching, and listing files.
+
+Key Features:
+1. Multi-format support (TXT, PDF, DOCX)
+2. Efficient search capabilities
+3. Directory management
+4. Error handling
+
+Implementation Details
+All file operations are implemented in fs_tools.py module.
+
+Conclusion
+This system provides robust file handling capabilities for document processing.

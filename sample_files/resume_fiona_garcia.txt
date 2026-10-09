@@ -1,0 +1,41 @@
+FIONA GARCIA
+fiona.garcia@email.com | (555) 789-0123 | LinkedIn: linkedin.com/in/fionagarcia | Portfolio: fionaportfolio.dev
+
+PROFESSIONAL SUMMARY
+Cybersecurity Specialist with 8+ years protecting enterprise systems and infrastructure. Expert in threat analysis, penetration testing, and security compliance. Certified ethical hacker with proven track record of reducing security incidents by 85%.
+
+PROFESSIONAL EXPERIENCE
+Senior Security Engineer | SecureNet Corp | June 2021 - Present
+- Led security architecture design for enterprise infrastructure
+- Conducted penetration testing on 50+ applications
+- Implemented zero-trust security model
+- Reduced security incidents from 20/quarter to 3/quarter
+- Managed SOC team and incident response protocols
+
+Security Analyst | CyberDefense Inc. | March 2019 - May 2021
+- Monitored network security threats 24/7
+- Conducted vulnerability assessments
+- Implemented SIEM solutions with Splunk
+- Responded to security incidents
+
+Junior Security Analyst | TechProtect | August 2017 - February 2019
+- Analyzed security logs
+- Maintained firewall configurations
+- Supported security testing
+
+EDUCATION
+B.S. in Cybersecurity | Security University | 2016
+
+CERTIFICATIONS
+- Certified Ethical Hacker (CEH)
+- CISSP (Certified Information Systems Security Professional)
+- CompTIA Security+
+- AWS Security Specialty
+
+EXPERTISE
+Penetration Testing, Vulnerability Assessment, SIEM Tools, Network Security, Cloud Security, Incident Response, Compliance (HIPAA, SOC2, ISO27001), Python Scripting, Linux
+
+ACHIEVEMENTS
+- Prevented $2M+ in potential data breach losses
+- Published 5 security research papers
+- Speaker at Black Hat USA 2023
